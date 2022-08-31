@@ -1,0 +1,70 @@
+#full{
+    width: 115%;
+    height: auto;
+}
+#inner_full{
+    width: 80%;
+    height: auto;
+}
+#header{
+    width: 115%;
+    height: 70px;
+    background-color: red;
+    color:white;
+
+}
+#body{
+    width: 115%;
+    height: 500px;
+    background-color: gray;
+}
+#footer{
+    width: 115%;
+    height: 80px;
+    background-color:red;
+    color:white;
+
+}
+#logout
+{
+    
+        width: 80px;
+        height: 35px;
+        background-color:green;
+       
+        
+}
+
+ul li{
+    width: 30%;
+    height: 50px;
+    line-height: 50px;
+    margin-left: 15px;
+    background: red;
+    color:gray;
+    float:left;
+    border-radius: 10px;
+    list-style: none;
+    text-align: center;
+
+}
+ul li a{
+    text-decoration: none;
+    color: white;
+}
+#form{
+    width: 80%;
+    height: 400px;
+    background-color: red;
+    color: white;
+    border-radius: 20px;
+}
+#save
+{
+    
+    width: 60px;
+    height: 40px;
+    background-color:red;
+    
+    
+}
